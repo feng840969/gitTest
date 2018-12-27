@@ -15,6 +15,7 @@
 		51E906B521D4C21E00F1E6C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51E906B321D4C21E00F1E6C2 /* LaunchScreen.storyboard */; };
 		51E906B821D4C21E00F1E6C2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 51E906B721D4C21E00F1E6C2 /* main.m */; };
 		51E906C221D4C21F00F1E6C2 /* gitTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 51E906C121D4C21F00F1E6C2 /* gitTestTests.m */; };
+		51E906CE21D4D40A00F1E6C2 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 51E906CD21D4D40A00F1E6C2 /* TableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,8 @@
 		51E906BD21D4C21F00F1E6C2 /* gitTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		51E906C121D4C21F00F1E6C2 /* gitTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitTestTests.m; sourceTree = "<group>"; };
 		51E906C321D4C21F00F1E6C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		51E906CC21D4D40A00F1E6C2 /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		51E906CD21D4D40A00F1E6C2 /* TableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,8 @@
 				51E906B621D4C21E00F1E6C2 /* Info.plist */,
 				51E906B721D4C21E00F1E6C2 /* main.m */,
 				51E906AE21D4C21D00F1E6C2 /* gitTest.xcdatamodeld */,
+				51E906CC21D4D40A00F1E6C2 /* TableViewCell.h */,
+				51E906CD21D4D40A00F1E6C2 /* TableViewCell.m */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -209,6 +214,7 @@
 				51E906B021D4C21D00F1E6C2 /* gitTest.xcdatamodeld in Sources */,
 				51E906AA21D4C21D00F1E6C2 /* ViewController.m in Sources */,
 				51E906B821D4C21E00F1E6C2 /* main.m in Sources */,
+				51E906CE21D4D40A00F1E6C2 /* TableViewCell.m in Sources */,
 				51E906A721D4C21D00F1E6C2 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
