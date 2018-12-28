@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		519A9E9A21D5BDB60082E6BD /* fdafsadfdasfasTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 519A9E9921D5BDB60082E6BD /* fdafsadfdasfasTableViewCell.m */; };
+		519A9E9721D5BD8A0082E6BD /* teatTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 519A9E9621D5BD8A0082E6BD /* teatTableViewCell.m */; };
 		51E906A721D4C21D00F1E6C2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 51E906A621D4C21D00F1E6C2 /* AppDelegate.m */; };
 		51E906AA21D4C21D00F1E6C2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51E906A921D4C21D00F1E6C2 /* ViewController.m */; };
 		51E906AD21D4C21D00F1E6C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 51E906AB21D4C21D00F1E6C2 /* Main.storyboard */; };
@@ -33,6 +34,8 @@
 /* Begin PBXFileReference section */
 		519A9E9821D5BDB60082E6BD /* fdafsadfdasfasTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = fdafsadfdasfasTableViewCell.h; sourceTree = "<group>"; };
 		519A9E9921D5BDB60082E6BD /* fdafsadfdasfasTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = fdafsadfdasfasTableViewCell.m; sourceTree = "<group>"; };
+		519A9E9521D5BD8A0082E6BD /* teatTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = teatTableViewCell.h; sourceTree = "<group>"; };
+		519A9E9621D5BD8A0082E6BD /* teatTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = teatTableViewCell.m; sourceTree = "<group>"; };
 		51E906A221D4C21D00F1E6C2 /* gitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51E906A521D4C21D00F1E6C2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		51E906A621D4C21D00F1E6C2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -108,6 +111,8 @@
 				51E906CD21D4D40A00F1E6C2 /* TableViewCell.m */,
 				51E906CF21D4D46900F1E6C2 /* aaTableViewCell.h */,
 				51E906D021D4D46900F1E6C2 /* aaTableViewCell.m */,
+				519A9E9521D5BD8A0082E6BD /* teatTableViewCell.h */,
+				519A9E9621D5BD8A0082E6BD /* teatTableViewCell.m */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -226,6 +231,7 @@
 				519A9E9A21D5BDB60082E6BD /* fdafsadfdasfasTableViewCell.m in Sources */,
 				51E906D121D4D46900F1E6C2 /* aaTableViewCell.m in Sources */,
 				51E906B821D4C21E00F1E6C2 /* main.m in Sources */,
+				519A9E9721D5BD8A0082E6BD /* teatTableViewCell.m in Sources */,
 				51E906CE21D4D40A00F1E6C2 /* TableViewCell.m in Sources */,
 				51E906A721D4C21D00F1E6C2 /* AppDelegate.m in Sources */,
 			);
